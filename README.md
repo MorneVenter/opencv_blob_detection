@@ -1,1 +1,2 @@
-# opencv_blob_detection
+# Opencv blob detection
+Detecting blobs using surf.
